@@ -48,6 +48,6 @@ To do so, just copy the content of the suppression file and paste it at the end 
 
 "usr/local/lib/valgrind/default.supp"
 
-And you are ready to go!
+And you are ready to go! I upload also my suppression file, still work in progress.
 
-PD: All the credits to Louis Brunner, just adding some hopefully useful information.
+**PD: All the credits to Louis Brunner, just adding some hopefully useful information.**
